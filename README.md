@@ -148,14 +148,6 @@ For the best experience, set up the server as
 create 0.0.0.0:port-of-your-choice.
 ```
 
-##### 6. Use Your Public IP Address
-
-1. For external users to connect, they will need your public IP address instead of `0.0.0.0`.
-2. You can find your public IP address using a service like [whatismyipaddress.com](https://whatismyipaddress.com/).
-
-Following these steps will enable port forwarding and allow external devices to access services on your local network. If you have any other questions or need further assistance, feel free to ask! 😊
-
-
 #### Firewall Configuration
 
 Ensure that your firewall allows traffic on the port you're using for the chat server.
