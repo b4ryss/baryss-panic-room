@@ -1,4 +1,4 @@
-# b4ryss'Panic Room
+# b4ryss' Panic Room
 
 This is a simple terminal-based chat application implemented in Python. It consists of a server (`Server.py`) and a client (`Client.py`). Users can connect to the server, send messages, and perform administrative tasks if they have the appropriate permissions.
 
