@@ -28,7 +28,7 @@ def receive():
 
 def main():
     global username
-    connected = False  # Bağlantı kontrolü yeri
+    connected = False
     username = input('Welcome! Enter your username: ')
     while True:
         command = input('')
