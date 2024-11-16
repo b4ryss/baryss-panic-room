@@ -22,21 +22,16 @@ There may still be a few problems when using commands in the application, but th
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone [https://github.com/b4ryss/baryss-panic-room.git]
+    cd baryss-panic-room
     ```
 
-2. **Install dependencies** (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the server**:
+2. **Run the server**:
     ```bash
     python3 Server.py
     ```
 
-4. **Run the client**:
+3. **Run the client**:
     ```bash
     python3 Client.py
     ```
